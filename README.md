@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Software Development in training :)<br>🎮 Raging gamer<br>🌱 Currently learning Web Development and Native Development<br>📫 You can reach me on @beppieoostkust via Discord<br>🔭 Currently working on: Something cool hihi<br>⚡ Dad Joke: "My dad told me a joke about boxing. I guess I missed the punch line."
+👋🏻 Software Development in training :)<br>🎮 Raging gamer<br>🌱 Currently learning Web Development and Native Development<br>📫 You can reach me on @beppieoostkust via Discord<br>🔭 Currently working on: Something cool hihi<br>⚡ Dad Joke: "Why do nurses carry around red crayons? Sometimes they need to draw blood."
 
 
 ## 🌐 Socials:

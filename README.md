@@ -1,5 +1,5 @@
 💫 About Me:
-👋🏻 Software Development in training :)<br>🎮 Raging gamer<br>🌱 Currently learning Web Development and Native Development<br>📫 You can reach me on @beppieoostkust via Discord<br>🔭 Currently working on: Something cool hihi<br>⚡ Dad Joke: "A burger walks into a bar. The bartender says 'Sorry, we don't serve food here'."
+👋🏻 Software Development in training :)<br>🎮 Raging gamer<br>🌱 Currently learning Web Development and Native Development<br>📫 You can reach me on @beppieoostkust via Discord<br>🔭 Currently working on: Something cool hihi<br>⚡ Dad Joke: Q: What can you do if you cannot push your git changes? A: Use the --force, Luke"
 
 
 ## 🌐 Socials:
